@@ -2,6 +2,8 @@
 - עומר שחר omerzshahar@gmail.com
 
 
+https://omerzshahar.itch.io/the-walking-dead-twine
+
 # משחק – The Walking Dead (Twine)
 
 ## תיאור כללי
